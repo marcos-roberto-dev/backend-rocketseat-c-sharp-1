@@ -1,0 +1,14 @@
+/Users/marcosroberto/Desktop/estudos/exercicios/ExerciseApp/bin/Debug/net8.0/ExerciseApp
+/Users/marcosroberto/Desktop/estudos/exercicios/ExerciseApp/bin/Debug/net8.0/ExerciseApp.deps.json
+/Users/marcosroberto/Desktop/estudos/exercicios/ExerciseApp/bin/Debug/net8.0/ExerciseApp.runtimeconfig.json
+/Users/marcosroberto/Desktop/estudos/exercicios/ExerciseApp/bin/Debug/net8.0/ExerciseApp.dll
+/Users/marcosroberto/Desktop/estudos/exercicios/ExerciseApp/bin/Debug/net8.0/ExerciseApp.pdb
+/Users/marcosroberto/Desktop/estudos/exercicios/ExerciseApp/obj/Debug/net8.0/ExerciseApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcosroberto/Desktop/estudos/exercicios/ExerciseApp/obj/Debug/net8.0/ExerciseApp.AssemblyInfoInputs.cache
+/Users/marcosroberto/Desktop/estudos/exercicios/ExerciseApp/obj/Debug/net8.0/ExerciseApp.AssemblyInfo.cs
+/Users/marcosroberto/Desktop/estudos/exercicios/ExerciseApp/obj/Debug/net8.0/ExerciseApp.csproj.CoreCompileInputs.cache
+/Users/marcosroberto/Desktop/estudos/exercicios/ExerciseApp/obj/Debug/net8.0/ExerciseApp.dll
+/Users/marcosroberto/Desktop/estudos/exercicios/ExerciseApp/obj/Debug/net8.0/refint/ExerciseApp.dll
+/Users/marcosroberto/Desktop/estudos/exercicios/ExerciseApp/obj/Debug/net8.0/ExerciseApp.pdb
+/Users/marcosroberto/Desktop/estudos/exercicios/ExerciseApp/obj/Debug/net8.0/ExerciseApp.genruntimeconfig.cache
+/Users/marcosroberto/Desktop/estudos/exercicios/ExerciseApp/obj/Debug/net8.0/ref/ExerciseApp.dll
